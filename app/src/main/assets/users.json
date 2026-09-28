@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Alex Johnson",
+      "email": "alex.johnson@example.com",
+      "tel": "+84 901 234 567",
+      "description": "Android developer passionate about UI/UX design and mobile architecture.",
+      "avatar_url": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=400",
+      "hobby": "Coding, Photography, Swimming"
+    },
+    {
+      "id": 2,
+      "username": "Sophia Chen",
+      "email": "sophia.chen@example.com",
+      "tel": "+84 902 345 678",
+      "description": "Graphic designer and illustrator based in Ho Chi Minh City.",
+      "avatar_url": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400",
+      "hobby": "Painting, Drawing, Travel"
+    },
+    {
+      "id": 3,
+      "username": "David Miller",
+      "email": "david.miller@example.com",
+      "tel": "+84 903 456 789",
+      "description": "Full-stack web engineer and open source contributor.",
+      "avatar_url": "https://images.unsplash.com/photo-1570295999919-56ceb5ecca61?w=400",
+      "hobby": "Gaming, Chess, Hiking"
+    },
+    {
+      "id": 4,
+      "username": "Emma Watson",
+      "email": "emma.watson@example.com",
+      "tel": "+84 904 567 890",
+      "description": "Data scientist who loves machine learning and big data analytics.",
+      "avatar_url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=400",
+      "hobby": "Reading, Yoga, Cooking"
+    },
+    {
+      "id": 5,
+      "username": "Michael Brown",
+      "email": "michael.brown@example.com",
+      "tel": "+84 905 678 901",
+      "description": "DevOps specialist and cloud infrastructure architect.",
+      "avatar_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400",
+      "hobby": "Cycling, Music, Football"
+    },
+    {
+      "id": 6,
+      "username": "Olivia Taylor",
+      "email": "olivia.taylor@example.com",
+      "tel": "+84 906 789 012",
+      "description": "Product manager with 5+ years of experience in tech startups.",
+      "avatar_url": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400",
+      "hobby": "Baking, Running, Movies"
+    },
+    {
+      "id": 7,
+      "username": "James Wilson",
+      "email": "james.wilson@example.com",
+      "tel": "+84 907 890 123",
+      "description": "Cybersecurity researcher focused on mobile app security.",
+      "avatar_url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400",
+      "hobby": "Cryptography, Martial Arts, Sci-Fi"
+    },
+    {
+      "id": 8,
+      "username": "Isabella Martinez",
+      "email": "isabella.m@example.com",
+      "tel": "+84 908 901 234",
+      "description": "Content creator and digital marketing enthusiast.",
+      "avatar_url": "https://images.unsplash.com/photo-1517841905240-472988babdf9?w=400",
+      "hobby": "Blogging, Fashion, Dance"
+    },
+    {
+      "id": 9,
+      "username": "William Davis",
+      "email": "william.davis@example.com",
+      "tel": "+84 909 012 345",
+      "description": "AI researcher studying computer vision and deep learning.",
+      "avatar_url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400",
+      "hobby": "Robotics, Astronomy, Coffee"
+    },
+    {
+      "id": 10,
+      "username": "Mia Anderson",
+      "email": "mia.anderson@example.com",
+      "tel": "+84 910 123 456",
+      "description": "UI Designer creating beautiful and accessible mobile experiences.",
+      "avatar_url": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400",
+      "hobby": "Pottery, Gardening, Music"
+    }
+  ]
+}
